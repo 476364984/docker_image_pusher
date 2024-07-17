@@ -1,1 +1,2 @@
 xubiaolin/zerotier-planet
+nginx
