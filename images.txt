@@ -1,2 +1,7 @@
 xubiaolin/zerotier-planet
 nginx
+mysql
+redis
+mariadb
+cht.sh
+cheat.sh
