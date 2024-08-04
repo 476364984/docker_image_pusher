@@ -4,3 +4,4 @@ mysql
 redis
 mariadb
 httpd
+lovechen/embyserver
